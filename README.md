@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NinetyBalls
+- 👀 I’m interested in learning programming
+- 🌱 I’m currently learning programming
